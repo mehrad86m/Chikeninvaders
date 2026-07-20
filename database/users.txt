@@ -1,0 +1,2 @@
+a|a|12360|8|true|true|true|true|Sniper|false
+pouyan|pouyan|5475|5|true|true|true|true|Default|false

@@ -1,0 +1,14 @@
+a|8125|6|2026-07-16 22:29:40|M:true,S:true,C:true,E:true
+a|10785|7|2026-07-19 19:46:08|M:true,S:true,C:true,E:true
+a|8270|6|2026-07-20 14:03:43|M:true,S:true,C:true,E:true
+a|8350|6|2026-07-20 14:49:49|M:true,S:true,C:true,E:true
+a|10440|7|2026-07-20 15:56:52|M:true,S:true,C:true,E:true
+a|12330|8|2026-07-20 16:14:41|M:true,S:true,C:true,E:true
+pouyan|5475|5|2026-07-20 17:13:29|M:true,S:true,C:true,E:true
+a|12150|8|2026-07-20 17:17:38|M:true,S:true,C:true,E:true
+a|12300|8|2026-07-20 17:43:04|M:true,S:true,C:true,E:true
+a|5870|5|2026-07-20 17:58:07|M:true,S:true,C:true,E:true
+a|12360|8|2026-07-20 18:54:46|M:true,S:true,C:true,E:true
+a|9675|7|2026-07-20 19:07:06|M:true,S:true,C:true,E:true
+a|11640|6|2026-07-20 19:44:49|M:true,S:true,C:true,E:true
+a|3880|4|2026-07-20 19:59:46|M:true,S:true,C:true,E:true

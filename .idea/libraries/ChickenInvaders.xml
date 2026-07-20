@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ChickenInvaders">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ChickenInvaders.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
